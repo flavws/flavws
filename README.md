@@ -2,7 +2,7 @@
 <p align="center">
 <a href="https://github.com/flavws">
   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=flavws&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://cdn.picrew.me/shareImg/org/202302/112842_ZD5ud0aT.png"/>
+  <img height="200em" src="https://cdn.picrew.me/shareImg/org/202302/1706331_N3lKQFFY.png"/>
  
 </a>
 </p>
